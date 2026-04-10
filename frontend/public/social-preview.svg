@@ -1,0 +1,20 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#E0F2FE"/>
+  <rect x="52" y="52" width="1096" height="526" rx="36" fill="#0F172A"/>
+  <circle cx="184" cy="170" r="52" fill="#38BDF8"/>
+  <rect x="270" y="122" width="412" height="34" rx="17" fill="#F8FAFC"/>
+  <rect x="270" y="177" width="302" height="18" rx="9" fill="#CBD5E1"/>
+  <rect x="120" y="282" width="282" height="212" rx="28" fill="#F8FAFC"/>
+  <rect x="459" y="282" width="282" height="212" rx="28" fill="#BAE6FD"/>
+  <rect x="798" y="282" width="282" height="212" rx="28" fill="#E0F2FE"/>
+  <path d="M170 420C170 377.072 204.817 342.255 247.745 342.255V342.255C290.672 342.255 325.49 377.072 325.49 420V420" stroke="#0284C7" stroke-width="22" stroke-linecap="round"/>
+  <path d="M520 432H681" stroke="#0F172A" stroke-width="26" stroke-linecap="round"/>
+  <path d="M520 386H627" stroke="#0F172A" stroke-width="26" stroke-linecap="round"/>
+  <path d="M863 434L920 377L966 415L1020 349" stroke="#0284C7" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="863" cy="434" r="16" fill="#0284C7"/>
+  <circle cx="920" cy="377" r="16" fill="#0284C7"/>
+  <circle cx="966" cy="415" r="16" fill="#0284C7"/>
+  <circle cx="1020" cy="349" r="16" fill="#0284C7"/>
+  <text x="120" y="555" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="52" font-weight="700">Trainer Pro</text>
+  <text x="120" y="595" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="24">Coach workspace for athletes, workouts, attendance, and reports</text>
+</svg>

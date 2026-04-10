@@ -1,0 +1,11 @@
+node_modules/
+build/
+.env
+.env.*
+!.env.example
+coverage/
+playwright-report/
+test-results/
+src/**/*.test.ts
+src/**/*.test.tsx
+tests/
